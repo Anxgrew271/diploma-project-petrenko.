@@ -144,12 +144,12 @@
 .title-section {
   font-family: var(--font-family);
   font-weight: 400;
-  font-size: 40px;
+  font-size: 36px;
   text-align: justify;
   color: #0a3853;
   margin-top: 75px;
   margin-bottom: 4px;
-  margin-left: 785px;
+  margin-left: 358px;
 }
 
 .title-section2 {
@@ -158,14 +158,14 @@
   font-size: 36px;
   text-align: justify;
   color: #0a3853;
-  margin-left: 687px;
+  margin-left: 219px;
 }
 
 .fraza-dzeika {
   font-family: var(--font-family);
   font-weight: 400;
-  font-size: 27px;
-  margin-left: 1045px;
+  font-size: 24px;
+  margin-left: 645px;
   color: #000;
   margin-top: 16px;
 }
@@ -174,15 +174,16 @@
   height: 120px;
   margin-bottom: 10px;
   margin-top: 8px;
-  margin-left: 935px;
+  margin-left: 520px;
 }
+
 
 .main {
   background-image: url("./Images/photo_2024-04-17_19-02-25\ \(2\).jpg");
   background-size: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 800px;
+  height: 520px;
 }
 
 .button-main {
@@ -211,7 +212,7 @@
   color: #0a3853;
   margin-top: 75px;
   margin-bottom: 4px;
-  margin-left: 470px;
+  margin-left: 277px;
 }
 
 .title-section4 {
@@ -220,55 +221,46 @@
   font-size: 43px;
   text-align: justify;
   color: #0a3853;
-  margin-left: 650px;
+  margin-left: 456px;
 }
-.fraza-dzeika{
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 27px;
-  margin-left: 990px;
-  color: #000;
-  margin-top: 16px;
-}
-.img-section{
-  height: 120px;
-  margin-bottom: 10px;
-  margin-top: 8px;
-  margin-left: 870px;
-}
-.main2{
+
+.main2 {
   background-image: url(./Images/c26ec6b5111caa5165792ad61fa8bf43.png);
   background-size: no-repeat;
   background-position: center;
   background-size: cover;
   height: 800px;
 }
-.title-main{
+
+.title-main {
   font-family: var(--second-family);
   font-weight: 400;
   font-size: 40px;
   color: #141414;
-  margin-left: 890px;
+  margin-left: 577px;
   padding-bottom: 10px;
   padding-top: 50px;
 }
-.main-list{
+
+.main-list {
   display: flex;
   margin: 0 auto;
   justify-content: space-between;
   flex-wrap: wrap;
   align-content: space-between;
-padding-bottom: 50px;
-padding-top: 20px;
+  padding-bottom: 50px;
+
 }
-.main-text{
+
+.main-text {
   font-family: var(--second-family);
   font-weight: 400;
   font-size: 24px;
   line-height: 100%;
   color: #141414;
 }
-.main-item{
+
+.main-item {
   height: 240px;
   background-color: white;
   margin-bottom: 24px;
@@ -281,33 +273,38 @@ padding-top: 20px;
   padding-left: 84px;
   padding-right: 84px;
 }
-.img-main{
+
+.img-main {
   width: 152px;
   height: 40px;
 }
-.section3{
+
+.section3 {
   height: 350px;
   background: white;
 }
-.title-section5{
+
+.title-section5 {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 40px;
   text-align: justify;
   color: #0a3853;
-  margin-left: 670px;
+  margin-left: 277px;
 
 }
-.title-section6{
+
+.title-section6 {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 36px;
   text-align: justify;
   color: #0a3853;
-  margin-left: 760px;
-  
+  margin-left: 340px;
+
 }
-.fraza-neytir{
+
+.fraza-neytir {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 24px;
@@ -315,7 +312,8 @@ padding-top: 20px;
   color: #000;
   margin-top: 16px;
 }
-.footer2{
+
+.footer2 {
   background: #2b4a61;
   height: 160px;
   display: flex;
@@ -324,37 +322,46 @@ padding-top: 20px;
   position: relative;
 
 }
-.footer2::after{
-  content:"©2023 Avatar: The Way Of Water. All rights reserved" ;
+
+.footer2::after {
+  content: "©2023 Avatar: The Way Of Water. All rights reserved";
   position: absolute;
   top: 87%;
   right: 30%;
   color: white;
 }
-.footer-information{
-display: flex;
-flex-direction: column;
+
+.footer-information {
+  display: flex;
+  flex-direction: column;
 }
-.footer{
+
+.footer {
   background-image: url(./Images/Rectangle\ 142.png);
   background-size: no-repeat;
   background-position: center;
   background-size: cover;
 }
-.footer-line{
+
+.footer-line {
   height: 153px;
   width: 1px;
   background: white;
   margin-left: 270px;
   margin-right: 80px;
- 
+
 }
-.text-footer{
+
+.text-footer {
   color: white;
   margin-top: 50px;
   margin-right: 10px;
+  font-size: 20px;
+
 }
-.text-footer2{
+
+.text-footer2 {
   color: white;
   margin-top: 16px;
+  font-size: 20px;
 }
